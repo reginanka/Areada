@@ -38,7 +38,7 @@
     <string name="font_mono">Mono</string>
     <string name="orientation_portrait">Книжкова</string>
     <string name="orientation_landscape">Альбомна</string>
-    <string name="orientation_follow_system">Як у системі</string>
+    <string name="orientation_follow_system">Автоповорот</string>
     <string name="page_navigation">Перегортання сторінок</string>
     <string name="navigation_swipe">Свайп</string>
     <string name="navigation_tap">Дотик</string>
